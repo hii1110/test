@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PRN222_A02-main",
+    "\\PRN222_A02-main\\Data",
+    "\\PRN222_A02-main\\Models",
+    "\\PRN222_A02-main\\Pages",
+    "\\PRN222_A02-main\\Pages\\Admin",
+    "\\PRN222_A02-main\\Pages\\Lecturer",
+    "\\PRN222_A02-main\\Pages\\Shared",
+    "\\PRN222_A02-main\\Properties",
+    "\\PRN222_A02-main\\Repositories"
+  ],
+  "SelectedNode": "\\PRN222_A02-main\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+  "PreviewInSolutionExplorer": false
+}
